@@ -1,0 +1,23 @@
+#include <stdio.h>
+int main()
+{
+    int a = 20;
+
+    printf("Initial value = %d\n", a);
+
+    a += 5;
+    printf("After addition = %d\n", a);
+
+    a -= 3;
+    printf("After subtraction = %d\n", a);
+
+    a *= 2;
+    printf("After multiplication = %d\n", a);
+
+    a /= 2;
+    printf("After division = %d\n", a);
+
+    a %= 4;
+    printf("After modulus = %d\n", a);
+    return 0;
+}
