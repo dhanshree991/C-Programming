@@ -1,0 +1,16 @@
+# Compiled files
+*.exe
+*.out
+*.o
+*.obj
+
+# Debug files
+*.pdb
+*.ilk
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.bak
